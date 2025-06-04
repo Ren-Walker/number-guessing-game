@@ -1,0 +1,33 @@
+# Maven
+target/
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# IDE-specific files (VS Code/Eclipse/IntelliJ)
+.classpath
+.project
+.settings/
+
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.swp
+*.bak
+
+# Build and dependency files
+dependency-reduced-pom.xml
+build/
+out/
+bin/
+
+# Logs and temp files
+*.log
+*.tmp
+*.orig
+
+# System files
+.DS_Store (Mac)
+Thumbs.db (Windows)
